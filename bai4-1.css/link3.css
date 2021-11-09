@@ -1,0 +1,17 @@
+#container{
+    display: flex;
+}
+#container a:link,a:visited {
+    text-decoration: none;
+}
+#container a:hover{
+    color: chartreuse;
+}
+#container a:active{ color: darkorange; }
+
+.link{
+ padding: 5px; border-right: 1px solid black;
+}
+#link3{
+    background-color: saddlebrown;
+}
